@@ -1,0 +1,22 @@
+ div {
+	 background-color: #42d9f4;
+	 padding: 20px;
+ }
+ 
+ div > div {
+	 background-color: #256370;
+	 padding: 30px;
+ }
+
+  div > div > div {
+	 background-color: #4e3a7c;
+	 padding: 40px;
+ }
+  div > div > div  > div {
+	 background-color: #abd1f2;
+	 padding: 50px;
+ }
+  div > div > div > div  > div {
+	 background-color: #e26161;
+	 padding: 60px;
+ }
